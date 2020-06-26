@@ -1,5 +1,7 @@
 # google-ads-in-recyclerview-example
 
+
+```
 class RecyclerViewAdsActivity : AppCompatActivity() {
     private var recyclerView: RecyclerView? = null
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -90,3 +92,4 @@ class RecyclerViewAdsActivity : AppCompatActivity() {
             ads:adUnitId="@string/banner_id"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+```
